@@ -1,0 +1,470 @@
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+bld/
+[Bb]in/
+[Oo]bj/
+build/
+[Ll]og/
+
+# Roslyn cache directories
+.roslyn/
+*.ide/
+.vs/
+
+# MSTest test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# NUnit
+*.VisualState.xml
+TestResult.xml
+nunit-*.xml
+
+# Build Results of an ATL Project
+[Dd]ebugPS/
+[Rr]eleasePS/
+dlldata.c
+*_i.c
+*_p.c
+*_i.h
+*.ilk
+*.meta
+*.obj
+*.pch
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*.log
+*.vspscc
+*.vssscc
+.builds
+*.pidb
+*.svclog
+*.scc
+
+# Chutzpah Test files
+_Chutzpah*
+
+# Visual C++ cache files
+ipch/
+*.aps
+*.ncb
+*.opensdf
+*.sdf
+*.cachefile
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+
+# TFS 2012 Local Workspace
+$tf/
+
+# Guidance Automation Toolkit
+*.gpState
+
+# ReSharper is a .NET coding add-in
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# JustCode is a .NET coding addin-in
+.JustCode
+
+# TeamCity is a build add-in
+_TeamCity*
+
+# DotCover is a Code Coverage Tool
+*.dotCover
+
+# NCrunch
+_NCrunch_*
+.*crunch*.local.xml
+
+# MightyMoose
+*.mm.*
+AutoTest.Net/
+
+# Web workbench (sass)
+.sass-cache/
+
+# Installshield output folder
+[Ee]xpress/
+
+# DocProject is a documentation generator add-in
+DocProject/buildhelp/
+DocProject/Help/*.HxT
+DocProject/Help/*.HxC
+DocProject/Help/*.hhc
+DocProject/Help/*.hhk
+DocProject/Help/*.hhp
+DocProject/Help/Html2
+DocProject/Help/html
+
+# Click-Once directory
+publish/
+
+# Publish Web Output
+*.[Pp]ublish.xml
+*.azurePubxml
+# TODO: Comment the next line if you want to checkin your web deploy settings
+# but database connection strings (with potential passwords) will be unencrypted
+*.pubxml
+*.publishproj
+
+# NuGet Packages
+*.nupkg
+# The packages folder can be ignored because of Package Restore
+**/packages/*
+# Except if this is a solution folder
+!**/packages/**/build/
+!**/packages/**/tools/
+!**/packages/**/lib/
+!**/packages/**/native/
+!**/packages/**/content/
+
+# Windows Store app package directory
+AppPackages/
+BundleArtifacts/
+
+# Visual Studio Code files
+.vscode/
+
+# Visual Studio 2017+ auto generated files
+Generated Files/
+
+# Visual Studio 2019+ auto generated files
+.vs/
+
+# Visual Studio 2022+ auto generated files
+.vs/
+
+# Azure Functions
+.funcignore
+
+# Azure DevOps
+.azuredevops/
+
+# Azure CLI
+.azure/
+
+# Azure Resource Manager
+.arm/
+
+# Azure Service Fabric
+.sf/
+
+# Azure WebJobs
+.webjobs/
+
+# Azure Storage
+.azurite/
+
+# Azure Data Lake
+.datalake/
+
+# Azure Machine Learning
+.aml/
+
+# Azure IoT
+.iot/
+
+# Azure Kubernetes Service
+.aks/
+
+# Azure Container Apps
+.aca/
+
+# Azure Container Instances
+.aci/
+
+# Azure Container Registry
+.acr/
+
+# Azure Cosmos DB
+.cosmos/
+
+# Azure Event Hubs
+.eventhubs/
+
+# Azure Key Vault
+.keyvault/
+
+# Azure Logic Apps
+.logicapps/
+
+# Azure Service Bus
+.servicebus/
+
+# Azure SQL Database
+.sql/
+
+# Azure Synapse Analytics
+.synapse/
+
+# Azure Virtual Machines
+.vm/
+
+# Azure Virtual Network
+.vnet/
+
+# Azure Virtual Network Gateway
+.vnetgateway/
+
+# Azure VPN Gateway
+.vpngateway/
+
+# Azure ExpressRoute
+.expressroute/
+
+# Azure Bastion
+.bastion/
+
+# Azure DDoS Protection
+.ddos/
+
+# Azure WAF
+.waf/
+
+# Azure Monitor
+.monitor/
+
+# Azure Security Center
+.securitycenter/
+
+# Azure Sentinel
+.sentinel/
+
+# Azure Active Directory
+.aad/
+
+# Azure Policy
+.policy/
+
+# Azure Resource Graph
+.resourcegraph/
+
+# Azure Cost Management
+.costmanagement/
+
+# Azure Advisor
+.advisor/
+
+# Azure Health Bot
+.healthbot/
+
+# Azure Bot Service
+.botservice/
+
+# Azure Cognitive Services
+.cognitiveservices/
+
+# Azure Custom Vision
+.customvision/
+
+# Azure Face
+.face/
+
+# Azure Form Recognizer
+.formrecognizer/
+
+# Azure Language Understanding
+.luis/
+
+# Azure QnA Maker
+.qnamaker/
+
+# Azure Speech
+.speech/
+
+# Azure Text Analytics
+.textanalytics/
+
+# Azure Translator
+.translator/
+
+# Azure Video Indexer
+.videoindexer/
+
+# Azure Web PubSub
+.webpubsub/
+
+# Azure Communication Services
+.communicationservices/
+
+# Azure Maps
+.maps/
+
+# Azure Spatial Anchors
+.spatialanchors/
+
+# Azure Time Series Insights
+.timeseriesinsights/
+
+# Azure Blockchain
+.blockchain/
+
+# Azure Confidential Ledger
+.confidentialledger/
+
+# Azure Data Share
+.datashare/
+
+# Azure Data Catalog
+.datacatalog/
+
+# Azure Data Factory
+.datafactory/
+
+# Azure Data Lake Analytics
+.datalakeanalytics/
+
+# Azure Data Explorer
+.dataexplorer/
+
+# Azure Databricks
+.databricks/
+
+# Azure HDInsight
+.hdinsight/
+
+# Azure Stream Analytics
+.streamanalytics/
+
+# Azure Synapse Studio
+.synapsestudio/
+
+# Azure Purview
+.purview/
+
+# Azure Machine Learning Studio
+.mlstudio/
+
+# Azure Machine Learning Designer
+.mldesigner/
+
+# Azure Machine Learning Notebooks
+.mlnotebooks/
+
+# Azure Machine Learning Compute
+.mlcompute/
+
+# Azure Machine Learning Endpoints
+.mlendpoints/
+
+# Azure Machine Learning Datasets
+.mldatasets/
+
+# Azure Machine Learning Pipelines
+.mlpipelines/
+
+# Azure Machine Learning Environments
+.mlenvironments/
+
+# Azure Machine Learning Models
+.mlmodels/
+
+# Azure Machine Learning Registries
+.mlregistries/
+
+# Azure Machine Learning Workspaces
+.mlworkspaces/
+
+# Azure Machine Learning Experiments
+.mlexperiments/
+
+# Azure Machine Learning Jobs
+.mljobs/
+
+# Azure Machine Learning Components
+.mlcomponents/
+
+# Azure Machine Learning Data Stores
+.mldatastores/
+
+# Azure Machine Learning Data Assets
+.mldataassets/
+
+# Azure Machine Learning Code Assets
+.mlcodeassets/
+
+# Azure Machine Learning Online Endpoints
+.mlonlineendpoints/
+
+# Azure Machine Learning Batch Endpoints
+.mlbatchendpoints/
+
+# Azure Machine Learning Deployments
+.mldeployments/
+
+# Azure Machine Learning Online Deployments
+.mlonlinedeployments/
+
+# Azure Machine Learning Batch Deployments
+.mlbatchdeployments/
+
+# Azure Machine Learning Managed Online Endpoints
+.mlmanagedonlineendpoints/
+
+# Azure Machine Learning Managed Batch Endpoints
+.mlmanagedbatchendpoints/
+
+# Azure Machine Learning Managed Online Deployments
+.mlmanagedonlinedeployments/
+
+# Azure Machine Learning Managed Batch Deployments
+.mlmanagedbatchdeployments/
+
+# Azure Machine Learning Kubernetes Online Endpoints
+.mlkubernetesonlineendpoints/
+
+# Azure Machine Learning Kubernetes Batch Endpoints
+.mlkubernetesbatchendpoints/
+
+# Azure Machine Learning Kubernetes Online Deployments
+.mlkubernetesonlinedeployments/
+
+# Azure Machine Learning Kubernetes Batch Deployments
+.mlkubernetesbatchdeployments/
+
+# Azure Machine Learning Container Instances Online Endpoints
+.mlcontainerinstancesonlineendpoints/
+
+# Azure Machine Learning Container Instances Batch Endpoints
+.mlcontainerinstancesbatchendpoints/
+
+# Azure Machine Learning Container Instances Online Deployments
+.mlcontainerinstancesonlinedeployments/
+
+# Azure Machine Learning Container Instances Batch Deployments
+.mlcontainerinstancesbatchdeployments/
+
+# Azure Machine Learning Azure Kubernetes Service Online Endpoints
+.mlazurekubernetesserviceonlineendpoints/
+
+# Azure Machine Learning Azure Kubernetes Service Batch Endpoints
+.mlazurekubernetesservicebatchendpoints/
+
+# Azure Machine Learning Azure Kubernetes Service Online Deployments
+.mlazurekubernetesserviceonlinedeployments/
+
+# Azure Machine Learning Azure Kubernetes Service Batch Deployments
+.mlazurekubernetesservicebatchdeployments/

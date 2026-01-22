@@ -1,0 +1,6 @@
+@CosmicSentryServices_HostAddress = http://localhost:5241
+
+GET {{CosmicSentryServices_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
