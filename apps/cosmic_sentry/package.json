@@ -1,0 +1,9 @@
+{
+  "name": "cosmic_sentry",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "flutter build apk --debug",
+    "test": "flutter test",
+    "start": "flutter run"
+  }
+}
